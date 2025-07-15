@@ -64,4 +64,8 @@
   <a href="mailto:baldesibo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <!-- Portfolio -->
+<a href="https://portfoliobalde.netlify.app/">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio Badge" />
+</a>
 </p>
