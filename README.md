@@ -68,4 +68,9 @@
 <a href="https://portfoliobalde.netlify.app/">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio Badge" />
 </a>
+  <!-- Portfolio -->
+<a href="https://gitlab.com/baldesibo" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Badge" />
+</a>
+
 </p>
