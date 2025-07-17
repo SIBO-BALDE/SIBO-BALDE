@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Sibo BALDE</h1>
 
 <p align="center">
-  🔭 I'm a Fullstack Java Developer • DevOps enthusiast 
+  🔭 I'm a Fullstack Java Developer |  Enthusiastic about .NET & ASP.NET Web API
 </p>
 
 ---
