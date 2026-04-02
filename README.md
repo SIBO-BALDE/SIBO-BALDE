@@ -6,13 +6,13 @@
 <h1 align="center">Hi 👋, I'm Sibo BALDE</h1>
 
 <p align="center">
-  🔭 I'm a Fullstack Java Developer |  Enthusiastic about .NET & ASP.NET Web API
+  🔭 I'm a Fullstack Java Developer | Flutter |  Enthusiastic about .NET & ASP.NET Web API
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,bootstrap,materialui,figma,react,angular,java,spring,mysql,postgres,mongodb,docker,git,github,gitlab,jenkins,aws,vscode,intellij,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,bootstrap,materialui,figma,react,angular,java,spring,mysql,postgres,mongodb,docker,git,github,gitlab,jenkins,aws,vscode,intellij,cs,flutter" />
 </p>
 
 
@@ -27,6 +27,9 @@
 ### Frontend
 - 🅰️ Angular, ⚛️ React  
 - 📝 TypeScript, JavaScript
+
+### Mobile
+- 🅵 Flutter
 
 ### DevOps & CI/CD
 - 🐳 Docker, GitLab CI/CD, GitHub Actions  
